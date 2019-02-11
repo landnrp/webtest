@@ -1,0 +1,200 @@
+P {
+  font-size: 1.5rem;
+  font-family: 'Taviraj', serif;
+  line-height: 1.42;
+  letter-spacing: 0.14rem;
+}
+
+body {
+  background-color: #33313b;
+  text-align: center;
+  color: #e6f5ff;
+}
+
+.banner-pic {
+  position: relative;
+  margin: 5px;
+  max-width: 100%;
+}
+
+.titleText {
+  margin: 13px auto;
+  padding: 20px 50px;
+}
+
+.compname {
+  font-size: 3.2rem;
+  margin: 20px;
+  padding: 0 60px 45px 60px;
+  font-family: 'Tinos', serif;
+  font-weight: 800;
+  letter-spacing: 0.2rem;
+}
+
+.brandimg {
+  max-width: 7%;
+  position: relative;
+}
+
+.brandtab {
+  background-color: #3c4f65;
+  margin: 2% auto;
+}
+
+.brandtab:hover {
+  background-color: #4c5f75;
+}
+
+.slotsec {
+  background-color: #33313b;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-content: center;
+}
+
+.slottext {
+  color: #FFF;
+  text-align: center;
+  margin-top: 30px;
+  line-height: 1.4;
+}
+
+.slotpicdiv {
+  background-color: #33313b;
+  text-align: center;
+  padding: 3px;
+  padding-bottom: 24px;
+  border: ridge 6px;
+  border-radius: 60px;
+  border-color: #e6f5ff;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.desslot {
+  font-size: 2.1rem;
+  font-weight: 300;
+  font-family: 'Taviraj', serif;
+  line-height: 2;
+  letter-spacing: 0.2rem;
+}
+
+.desslotth {
+  font-size: 1.2rem;
+}
+
+.plain {
+  color: #fff;
+}
+
+.paint {
+  color: #fff;
+  font-weight: 700;
+}
+
+
+
+.slot-pic {
+  position: relative;
+  margin: 9% 4% 0 4%;
+  max-width: 90%;
+}
+
+.product {
+  padding: 20px;
+  background-color: #e6f5ff;
+}
+
+.card-img-top {
+  margin: 16px 8px;
+}
+
+.card-title {
+  font-family: 'Tinos', serif;
+  font-weight: 800;
+  line-height: 2;
+  font-size: 2rem;
+  letter-spacing: 0.12rem;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+.cleanband:hover {
+  color: #d2d6d8;
+}
+
+.cleantext {
+  font-family: 'Taviraj', serif;
+  font-size: 2vw;
+  background-color: #3c4f65;
+  padding: 2% 1%;
+  letter-spacing: 0.1rem;
+  margin-bottom: 0;
+}
+
+.card-bg {
+  background-color: #33313b;
+  color: #e6f5ff;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  padding: 3rem 0 1rem;
+}
+
+#map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+
+}
+
+.mapbanner {
+  font-family: 'Tinos', serif;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#contact {
+  background-color: #e6f5ff;
+  margin-top: 2rem;
+  padding: 3rem 2% 2.2rem;
+}
+.contextz {
+    font-family: 'Taviraj', serif;
+    font-size: 1rem;
+    color: #8993a3;
+
+}
+
+.faceb {
+  margin-top: 3%;
+  padding-top: 3%;
+  padding-bottom: 1%;
+}
+
+.contact-column {
+  position: relative;
+}
+.card-header {
+  color: #33313b;
+
+}
+.contact-text {
+  color: #33313b;
+  font-size: 1.3rem;
+}
+
+.card-deck {
+  margin: 0;
+}
+
+@media only screen and (max-width: 768px) {
+
+   For mobile phones:
+   [class*="col-"] {
+    width: 100%;
+  }
+ }
